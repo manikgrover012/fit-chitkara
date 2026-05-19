@@ -106,7 +106,7 @@ Used for user login, Google OAuth, and password reset.
 1. Go to [Firebase Console](https://console.firebase.google.com/) → Create a project
 2. Add a **Web app** to the project
 3. Enable **Authentication** → Sign-in methods → Enable **Email/Password** and **Google**
-4. Copy your config object into `config.js`:
+4. Copy your config object into `config.js`:.
 
 ```js
 const firebaseConfig = {
