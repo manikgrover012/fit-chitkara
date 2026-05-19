@@ -38,7 +38,7 @@ fit-chitkara/
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started!
 
 ### Prerequisites
 
